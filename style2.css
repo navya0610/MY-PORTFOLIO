@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: large;
+    font-family: cursive;
+    background: url(me.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.about{
+    position: absolute;
+    left: 30%;
+    top:25%;
+    border: 0px solid black;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.315);
+}
+.head{
+    text-align: center;
+    border-bottom: 2px solid rgb(7, 7, 7);
+    padding-bottom: 2px;
+    color: rgb(8, 8, 8);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.input{
+    padding:15px, 15px;
+    color: rgba(248, 245, 245, 0.993);
+    margin-left: 110px;
+    font-size:20px;
+}

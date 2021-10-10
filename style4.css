@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(edu.jpg);
+    background-size: cover;
+}
+.skill{
+    position: relative;
+    top: 30%;
+    left:0%;
+}

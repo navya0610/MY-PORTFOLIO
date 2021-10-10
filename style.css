@@ -1,0 +1,33 @@
+*{
+    margin :o;
+    padding:0;
+}
+body{
+    background: url(lap2.jpg);
+    height: 100vh;
+    background-size: cover;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.mynav{
+  background-color:rgb(248, 8, 8);
+}
+.homepage{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color: rgb(14, 13, 13);
+}
+.head1{
+    margin-left: 300px;
+}
+.head2{
+    margin-left: 255px;
+}
+.name{
+    color: red;
+}
+.welcome{
+    margin-left: 115px;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(me.jpg);
+    background-size: cover;
+    height: 150vh;
+    width: 100;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+}
+.education{
+    position: relative;
+    left: 10%;
+    top: ;
+}
+.head1{
+    color: rgb(247, 26, 26);
+}
+
